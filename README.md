@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I'm **Zahra Akhlaghi**
-I'm currently a **Computer Software Engineering** student at Amirkabir University of Technology - Tehran Polytechnic<br/><br/>
+I'm currently a **Software Engineering** student at Amirkabir University of Technology - Tehran Polytechnic<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahraakhlaghi&show_icons=true&theme=gruvbox&&langs_count=10&layout=compact)](https://github.com/zahraakhlaghi/zahraakhlaghi)<br/>
